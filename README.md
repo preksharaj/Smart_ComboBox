@@ -1,15 +1,15 @@
-#Task 
+# Task 
 A smart selection combo box,  wherein user selectable possible options get filtered by the user input values. 
 
-#To Run
+# To Run
 Download the entire package and run from the root directory.
-$python serve.py
+`python serve.py`
 
 This will run the scirpt and load a HTML page on Localhost:3333.
 Open the borwser and type the URL: http://localhost:3333/
 to view the page.
 
-#Explanation
+# Explanation
 When you open the page, index.html gets rendered which in turn renders app.css and app.js for all the functionality.
 The package has an Angular module that contains directive for creating combobox with custom search form control. 
 
@@ -19,5 +19,3 @@ It is followed by a dependent combobox chain: Based on the Continent selected th
 This text field is also a smart selection combo box with the list of Countries filters for the first selected Continent.
 
 All the options for the Continent and Countries are fetched from json files so as to Mimic that the possible options are fetched from a backend service.
-
-# Smart_Selection_Combobox
