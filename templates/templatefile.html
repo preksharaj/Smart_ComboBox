@@ -1,0 +1,8 @@
+<input type="text" ng-model="model" placeholder="{{prompt}}" ng-keydown="selected=false"/><br/> 
+<div class="items" ng-hide="!model.length||selected">
+	<div selectable class="item" ng-repeat="item in items | filter:model  track by $index" ng-click="handleSelection(item[topic])" style="cursor:pointer" ng-class="{active:isCurrent($index)}" ng-mouseenter="setCurrent($index)" tabindex="{{$index}}">
+		<p class="topic" >{{item[topic]}}</p>
+	</div>
+</div>
+
+

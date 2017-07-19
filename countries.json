@@ -1,0 +1,190 @@
+[
+    {
+        "id":"North America",
+        "name": "Antigua and Barbuda"
+    },
+    {
+        "id":"North America",
+        "name": "Bahamas"
+    },
+    {
+        "id":"North America",
+        "name": "Barbados"
+    },
+    {
+        "id":"North America",
+        "name": "Canada"
+    },
+    {
+        "id":"North America",
+        "name": "Guatemala"
+    },
+    {
+        "id":"North America",
+        "name": "Dominica"
+    },
+    {
+        "id":"Norht America",
+        "name": "Jamaica"
+    },
+    {
+        "id":"Norht America",
+        "name": "Mexico"
+    },
+    {
+        "id":"Norht America",
+        "name": "Panama"
+    },
+    {
+        "id":"North America",
+        "name": "United States of America (USA)"
+    },
+    {
+        "id":"South America",
+        "name": "Argentina"
+    },
+    {
+        "id":"South America",
+        "name": "Brazil"
+    },
+    {
+        "id":"South America",
+        "name": "Colombia"
+    },
+    {
+        "id":"South America",
+        "name": "Peru"
+    },
+    {
+        "id":"South America",
+        "name": "Venezuela"
+    },
+    {
+        "id":"Asia",
+        "name": "United Arab Emirates (UAE)"
+    },
+    {
+        "id":"Asia",
+        "name": "Malaysia"
+    },
+    {
+        "id":"Asia",
+        "name": "India"
+    },
+    {
+        "id":"Asia",
+        "name": "Saudi Arabia"
+    },
+    {
+        "id":"Asia",
+        "name": "Russia"
+    },
+    {
+        "id":"Asia",
+        "name": "Afghanistan"
+    },
+    {
+        "id":"Asia",
+        "name": "Russia"
+    },
+    {
+        "id":"Asia",
+        "name": "China"
+    },
+    {
+        "id":"Asia",
+        "name": "Japan"
+    },
+    {
+        "id":"Europe",
+        "name": "Austria"
+    },
+    {
+        "id":"Europe",
+        "name": "Belgium"
+    },
+    {
+        "id":"Europe",
+        "name": "Czech Republic"
+    },
+    {
+        "id":"Europe",
+        "name": "Denmark"
+    },
+    {
+        "id":"Europe",
+        "name": "France"
+    },
+    {
+        "id":"Europe",
+        "name": "Germany"
+    },
+    {
+        "id":"Europe",
+        "name": "Netherlands"
+    },
+    {
+        "id":"Europe",
+        "name": "United Kingdom (UK)"
+    },
+    {
+        "id":"Europe",
+        "name": "Italy"
+    },
+    {
+        "id":"Europe",
+        "name": "Portugal"
+    },
+    {
+        "id":"Europe",
+        "name": "Sweeden"
+    },
+    {
+        "id":"Africa",
+        "name": "Egypt"
+    },
+    {
+        "id":"Africa",
+        "name": "Nigeria"
+    },
+    {
+        "id":"Africa",
+        "name": "Madagascar"
+    },
+    {
+        "id":"Africa",
+        "name": "Morocco"
+    },
+    {
+        "id":"Africa",
+        "name": "South Africa"
+    },
+    {
+        "id":"Africa",
+        "name": "Uganda"
+    },
+    {
+        "id":"Antarctica",
+        "name": "Antarctica"
+    },
+    {
+        "id":"Australia",
+        "name": "Australia"
+    },
+    {
+        "id":"Australia",
+        "name": "Fiji"
+    },
+    {
+        "id":"Australia",
+        "name": "New Zealand"
+    },
+    {
+        "id":"Australia",
+        "name": "Solomon Islands"
+    },
+    {
+        "id":"Australia",
+        "name": "Vanuatu"
+    }
+]

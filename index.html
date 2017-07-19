@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html ng-app="app">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<script src="https://code.angularjs.org/1.2.9/angular.min.js" type="text/javascript"></script>
+<link href="css/app.css" type="text/css" rel="stylesheet"/>
+<script type="text/javascript" src="js/app.js"></script>
+<title>Custom Combobox</title>
+</head>
+<body>
+<div class="cont">
+   <div class="container" ng-controller="ContinentCtlr">
+	<h1>Continent</h1>
+	<myapp items="items" prompt="Enter a Continent" topic="name"  model="name" on-select="onItemSelected()"/>
+    </div>
+    <div class="container" ng-controller="CountryCtlr">
+	<h1>Country</h1>
+	<myapp items="final" prompt="Enter a Country" topic="name"  model="cname" on-select="onCountrySelected()" />
+   </div>
+</div>
+</body>
+</html>

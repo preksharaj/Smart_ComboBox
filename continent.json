@@ -1,0 +1,31 @@
+[
+    {
+        
+        "name": "North America",
+        "abbreviation": "NA"
+    },
+    {
+        "name": "South America",
+        "abbreviation": "SA"
+    },
+    {
+        "name": "Asia",
+        "abbreviation": "AS"
+    },
+    {
+        "name": "Africa",
+        "abbreviation": "AF"
+    },
+    {
+        "name": "Europe",
+        "abbreviation": "EU"
+    },
+    {
+        "name": "Australia",
+        "abbreviation": "AU"
+    },
+    {
+        "name": "Antarctica",
+        "abbreviation": "AN"
+    }
+]
