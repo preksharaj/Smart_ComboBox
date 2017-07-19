@@ -3,6 +3,7 @@ A smart selection combo box,  wherein user selectable possible options get filte
 
 # To Run
 Download the entire package and run from the root directory.
+Run this command to execute.
 `python serve.py`
 
 This will run the scirpt and load a HTML page on Localhost:3333.
